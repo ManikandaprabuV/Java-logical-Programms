@@ -13,7 +13,7 @@ class PrimeNumber
     {
       break;
     }
-    a++;
+    a++;;
   }
   if(a>num/2)
     System.out.println(num+" is a Prime Number");
